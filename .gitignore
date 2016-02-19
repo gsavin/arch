@@ -1,1 +1,4 @@
 *.xz
+pkg/
+src/
+v*.tar.gz
